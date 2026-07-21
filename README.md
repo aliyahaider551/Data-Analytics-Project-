@@ -305,15 +305,6 @@ Customer-Shopping-Behavior-Analysis
 - Customer Segmentation
 - Data Storytelling
 
----
-
-# 📷 Dashboard Preview
-
-> *(Add your Power BI dashboard screenshot here.)*
-
-```markdown
-![Dashboard](Images/dashboard.png)
-```
 
 ---
 
